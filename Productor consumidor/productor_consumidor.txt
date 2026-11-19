@@ -1,0 +1,48 @@
+=== INICIO PRODUCTOR-CONSUMIDOR (2 Productores, 2 Consumidores) ===
+
+[Productor 1] Produjo: 101 | Elementos en buffer: 1/5
+  [Consumidor 1] Consumio: 101 | Elementos en buffer: 0/5
+  [Consumidor 2] Buffer vacio. Esperando datos...
+[Productor 2] Produjo: 201 | Elementos en buffer: 1/5
+  [Consumidor 2] Consumio: 201 | Elementos en buffer: 0/5
+[Productor 2] Produjo: 202 | Elementos en buffer: 1/5
+[Productor 1] Produjo: 102 | Elementos en buffer: 2/5
+  [Consumidor 2] Consumio: 202 | Elementos en buffer: 1/5
+  [Consumidor 1] Consumio: 102 | Elementos en buffer: 0/5
+[Productor 2] Produjo: 203 | Elementos en buffer: 1/5
+[Productor 1] Produjo: 103 | Elementos en buffer: 2/5
+  [Consumidor 1] Consumio: 203 | Elementos en buffer: 1/5
+  [Consumidor 2] Consumio: 103 | Elementos en buffer: 0/5
+[Productor 2] Produjo: 204 | Elementos en buffer: 1/5
+[Productor 1] Produjo: 104 | Elementos en buffer: 2/5
+[Productor 2] Produjo: 205 | Elementos en buffer: 3/5
+[Productor 1] Produjo: 105 | Elementos en buffer: 4/5
+  [Consumidor 1] Consumio: 204 | Elementos en buffer: 3/5
+  [Consumidor 2] Consumio: 104 | Elementos en buffer: 2/5
+[Productor 2] Produjo: 206 | Elementos en buffer: 3/5
+[Productor 1] Produjo: 106 | Elementos en buffer: 4/5
+  [Consumidor 1] Consumio: 205 | Elementos en buffer: 3/5
+  [Consumidor 2] Consumio: 105 | Elementos en buffer: 2/5
+[Productor 2] Produjo: 207 | Elementos en buffer: 3/5
+[Productor 1] Produjo: 107 | Elementos en buffer: 4/5
+[Productor 2] Produjo: 208 | Elementos en buffer: 5/5
+[Productor 1] Buffer lleno. Esperando espacio...
+  [Consumidor 1] Consumio: 206 | Elementos en buffer: 4/5
+[Productor 1] Produjo: 108 | Elementos en buffer: 5/5
+  [Consumidor 2] Consumio: 106 | Elementos en buffer: 4/5
+[Productor 2] Produjo: 209 | Elementos en buffer: 5/5
+[Productor 1] Buffer lleno. Esperando espacio...
+  [Consumidor 1] Consumio: 207 | Elementos en buffer: 4/5
+[Productor 1] Produjo: 109 | Elementos en buffer: 5/5
+  [Consumidor 2] Consumio: 107 | Elementos en buffer: 4/5
+[Productor 2] Produjo: 210 | Elementos en buffer: 5/5
+[Productor 1] Buffer lleno. Esperando espacio...
+  [Consumidor 1] Consumio: 208 | Elementos en buffer: 4/5
+[Productor 1] Produjo: 110 | Elementos en buffer: 5/5
+  [Consumidor 2] Consumio: 108 | Elementos en buffer: 4/5
+  [Consumidor 2] Consumio: 209 | Elementos en buffer: 3/5
+  [Consumidor 1] Consumio: 109 | Elementos en buffer: 2/5
+  [Consumidor 2] Consumio: 210 | Elementos en buffer: 1/5
+  [Consumidor 1] Consumio: 110 | Elementos en buffer: 0/5
+
+=== EJECUCION FINALIZADA CORRECTAMENTE ===

@@ -1,0 +1,114 @@
+=== INICIO DE LA CENA DE LOS FILOSOFOS (5 Filosofos) ===
+
+[Filosofo 1] Esta pensando...
+[Filosofo 4] Esta pensando...
+[Filosofo 3] Esta pensando...
+[Filosofo 2] Esta pensando...
+[Filosofo 5] Esta pensando...
+[Filosofo 1] Tiene hambre e intenta tomar tenedores.
+  [Filosofo 1] Tomo tenedor izquierdo (1).
+  [Filosofo 1] Tomo tenedor derecho (2).
+>>> [Filosofo 1] ESTA COMIENDO (Comida 1/3) <<<
+[Filosofo 3] Tiene hambre e intenta tomar tenedores.
+  [Filosofo 3] Tomo tenedor izquierdo (3).
+[Filosofo 4] Tiene hambre e intenta tomar tenedores.
+[Filosofo 5] Tiene hambre e intenta tomar tenedores.
+  [Filosofo 3] Tomo tenedor derecho (4).
+>>> [Filosofo 3] ESTA COMIENDO (Comida 1/3) <<<
+[Filosofo 2] Tiene hambre e intenta tomar tenedores.
+[Filosofo 3] Termino de comer y solto los tenedores (3 y 4).
+
+[Filosofo 3] Esta pensando...
+  [Filosofo 4] Tomo tenedor izquierdo (4).
+  [Filosofo 4] Tomo tenedor derecho (5).
+>>> [Filosofo 4] ESTA COMIENDO (Comida 1/3) <<<
+[Filosofo 1] Termino de comer y solto los tenedores (1 y 2).
+
+[Filosofo 1] Esta pensando...
+  [Filosofo 2] Tomo tenedor izquierdo (2).
+  [Filosofo 2] Tomo tenedor derecho (3).
+>>> [Filosofo 2] ESTA COMIENDO (Comida 1/3) <<<
+  [Filosofo 5] Tomo tenedor derecho (1).
+[Filosofo 1] Tiene hambre e intenta tomar tenedores.
+[Filosofo 3] Tiene hambre e intenta tomar tenedores.
+[Filosofo 4] Termino de comer y solto los tenedores (4 y 5).
+
+[Filosofo 4] Esta pensando...
+  [Filosofo 5] Tomo tenedor izquierdo (5).
+>>> [Filosofo 5] ESTA COMIENDO (Comida 1/3) <<<
+[Filosofo 2] Termino de comer y solto los tenedores (2 y 3).
+
+[Filosofo 2] Esta pensando...
+  [Filosofo 3] Tomo tenedor izquierdo (3).
+  [Filosofo 3] Tomo tenedor derecho (4).
+>>> [Filosofo 3] ESTA COMIENDO (Comida 2/3) <<<
+[Filosofo 2] Tiene hambre e intenta tomar tenedores.
+  [Filosofo 2] Tomo tenedor izquierdo (2).
+[Filosofo 4] Tiene hambre e intenta tomar tenedores.
+[Filosofo 5] Termino de comer y solto los tenedores (5 y 1).
+
+[Filosofo 5] Esta pensando...
+  [Filosofo 1] Tomo tenedor izquierdo (1).
+[Filosofo 3] Termino de comer y solto los tenedores (3 y 4).
+
+[Filosofo 3] Esta pensando...
+  [Filosofo 4] Tomo tenedor izquierdo (4).
+  [Filosofo 4] Tomo tenedor derecho (5).
+>>> [Filosofo 4] ESTA COMIENDO (Comida 2/3) <<<
+  [Filosofo 2] Tomo tenedor derecho (3).
+>>> [Filosofo 2] ESTA COMIENDO (Comida 2/3) <<<
+[Filosofo 5] Tiene hambre e intenta tomar tenedores.
+[Filosofo 3] Tiene hambre e intenta tomar tenedores.
+[Filosofo 4] Termino de comer y solto los tenedores (4 y 5).
+
+[Filosofo 4] Esta pensando...
+[Filosofo 2] Termino de comer y solto los tenedores (2 y 3).
+
+[Filosofo 2] Esta pensando...
+  [Filosofo 1] Tomo tenedor derecho (2).
+>>> [Filosofo 1] ESTA COMIENDO (Comida 2/3) <<<
+  [Filosofo 3] Tomo tenedor izquierdo (3).
+  [Filosofo 3] Tomo tenedor derecho (4).
+>>> [Filosofo 3] ESTA COMIENDO (Comida 3/3) <<<
+[Filosofo 4] Tiene hambre e intenta tomar tenedores.
+[Filosofo 2] Tiene hambre e intenta tomar tenedores.
+[Filosofo 1] Termino de comer y solto los tenedores (1 y 2).
+
+[Filosofo 1] Esta pensando...
+[Filosofo 3] Termino de comer y solto los tenedores (3 y 4).
+
+=== [Filosofo 3] HA TERMINADO TODAS SUS COMIDAS ===
+  [Filosofo 4] Tomo tenedor izquierdo (4).
+  [Filosofo 4] Tomo tenedor derecho (5).
+>>> [Filosofo 4] ESTA COMIENDO (Comida 3/3) <<<
+  [Filosofo 5] Tomo tenedor derecho (1).
+  [Filosofo 2] Tomo tenedor izquierdo (2).
+  [Filosofo 2] Tomo tenedor derecho (3).
+>>> [Filosofo 2] ESTA COMIENDO (Comida 3/3) <<<
+[Filosofo 1] Tiene hambre e intenta tomar tenedores.
+[Filosofo 4] Termino de comer y solto los tenedores (4 y 5).
+
+=== [Filosofo 4] HA TERMINADO TODAS SUS COMIDAS ===
+  [Filosofo 5] Tomo tenedor izquierdo (5).
+>>> [Filosofo 5] ESTA COMIENDO (Comida 2/3) <<<
+[Filosofo 2] Termino de comer y solto los tenedores (2 y 3).
+
+=== [Filosofo 2] HA TERMINADO TODAS SUS COMIDAS ===
+[Filosofo 5] Termino de comer y solto los tenedores (5 y 1).
+
+[Filosofo 5] Esta pensando...
+  [Filosofo 1] Tomo tenedor izquierdo (1).
+  [Filosofo 1] Tomo tenedor derecho (2).
+>>> [Filosofo 1] ESTA COMIENDO (Comida 3/3) <<<
+[Filosofo 5] Tiene hambre e intenta tomar tenedores.
+[Filosofo 1] Termino de comer y solto los tenedores (1 y 2).
+
+=== [Filosofo 1] HA TERMINADO TODAS SUS COMIDAS ===
+  [Filosofo 5] Tomo tenedor derecho (1).
+  [Filosofo 5] Tomo tenedor izquierdo (5).
+>>> [Filosofo 5] ESTA COMIENDO (Comida 3/3) <<<
+[Filosofo 5] Termino de comer y solto los tenedores (5 y 1).
+
+=== [Filosofo 5] HA TERMINADO TODAS SUS COMIDAS ===
+
+=== TODOS LOS FILOSOFOS HAN TERMINADO DE CENAR ===
